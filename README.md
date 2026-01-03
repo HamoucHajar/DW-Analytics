@@ -14,10 +14,7 @@ It integrates **Pentaho Data Integration (PDI)** for ETL processes and **Power B
 - **PDI/** – transformations, and source files  
 - **PowerBI/** – Power BI reports, dashboards, and exported visuals  
 - **Docs/** – **PDI presentation** and **project guide**
-  
-## **PowerBI/**
-📊 Download the Power BI report here:
-🔗 https://drive.google.com/drive/folders/13njQ6bYS32umkrHJGf7j_no5gYBljMts?usp=sharing
+
 
 ## Key Features
 - **Star Schema Design**: Optimized for querying agricultural metrics and dimensions  
@@ -27,8 +24,11 @@ It integrates **Pentaho Data Integration (PDI)** for ETL processes and **Power B
 
   
 ## Data Source
-The agricultural datasets used in this project are available at the following link:
-🔗 https://drive.google.com/drive/folders/1-T4ZfX5VXKLc3DaT1JT-aDZf3lgu1qF7?usp=sharing
+## **PowerBI/**
+## Others
+⚠️ Due to GitHub file size limitations, these files are available via this link:
+🔗 https://drive.google.com/drive/folders/16QMQyRm8GuasNLoJ2LYINMQdxTU28cFp?usp=drive_link
+
 
 ## How to Use
 1. Open the **PDI files** in Pentaho to explore the ETL transformations of agricultural data.  
@@ -38,5 +38,3 @@ The agricultural datasets used in this project are available at the following li
 
 ## Objective
 To provide a **structured, efficient, and visually engaging representation of agricultural data** that supports **data-driven decisions** in farming and agricultural management.
-
-⚠️ Due to GitHub file size limitations, raw datasets and Power BI (.pbix) files are hosted externally.
